@@ -19,16 +19,16 @@ const Header = () => {
       <Divider/>
       <ul className='mobile-navigation'>
         <li>
-          <Link to={'/'}>Home</Link>
+          <Link to={'/'}>Домашняя страница</Link>
         </li>
         <li>
-          <Link to={'/offers'}>Offers</Link>
+          <Link to={'/offers'}>Предложения</Link>
         </li>
         <li>
-          <Link to={'/about'}>About</Link>
+          <Link to={'/about'}>О нас</Link>
         </li>
         <li>
-          <Link to={'/contact'}>Contact</Link>
+          <Link to={'/contact'}>Связаться</Link>
         </li>
       </ul>
 
